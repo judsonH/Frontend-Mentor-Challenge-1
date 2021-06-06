@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/judsonH/Frontend-Mentor-Challenge-1)
 - Live Site URL: [Github pages](https://judsonh.github.io/Frontend-Mentor-Challenge-1/)
 
 ## My process
